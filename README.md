@@ -10,4 +10,4 @@ which is developed and maintained by:
  The reference for these data sets are:
  **Score_set: A CAPRI benchmark for scoring protein complexes**, Marc F. Lensink ,and Shoshana J. Wodak, _PROTEINS structure, function, bioinformatics_, **2014**, 3163-3169.
  
-The folders **Target29, Target30, Target31, ....,** and **Target54** represents Targets in the website **T29, T30, T31, ....,** and **T54**.
+The folders **Target29, Target30, Target32, ....,** and **Target54** represents Targets in the website **T29, T30, T32, ....,** and **T54**.
